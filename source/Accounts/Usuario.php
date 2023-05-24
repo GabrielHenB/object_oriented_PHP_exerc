@@ -1,12 +1,12 @@
 <?php
-namespace source\Interp;
+namespace source\Accounts;
 
 class Usuario
 {
     private $nomeA;
     private $email;
     
-    //METODOS DE CONSTRUCAO CLONE DESTRUICAO CLASSAO
+    //METODOS DE CONSTRUCAO CLONE DESTRUICAO
     
     public function __construct($nomeA,$email = null){
         //Construtor que nao obriga envio da variavel $email
