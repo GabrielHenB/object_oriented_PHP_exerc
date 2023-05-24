@@ -1,5 +1,5 @@
 <?php
-namespace source\Loading;
+namespace source\Accounts;
 
 class Conta
 {
