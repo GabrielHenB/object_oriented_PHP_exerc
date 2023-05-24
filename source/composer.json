@@ -1,0 +1,20 @@
+{
+	"name" : "object_oriented_PHP_exerc/PhpOOP",
+	"description" : "Estudando PHP com composer",
+	"minimum-stability" : "stable",
+	"authors" : [{
+			"name" : "GabrielHenB",
+			"email" : "placeholderemail@something.com",
+			"homepage" : "none",
+			"role" : "student"
+		}
+	],
+	"config" : {
+		"vendor-lib" : "vendor"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Source\\" : "source/"
+		}
+	}
+}
