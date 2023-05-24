@@ -1,5 +1,5 @@
 <?php
-namespace source\Interp;
+namespace source\Accounts;
 
 class Manga
 {
